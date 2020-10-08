@@ -6,7 +6,7 @@ I am constantly improving my skills to always deliver the best of both worlds: f
 
 I have professional experience in the main stacks with web and hybrid mobile development, focused on the main technologies like Angular and React on the front-end, .NET Core and NodeJS on the back-end and relational and non-relational databases like SQL Server and MongoDB.
 
-Always willing to learn and help the team in order to add value to the final product. In constant search for challenges that may develop positively in personal and professional growth.😀
+Always willing to learn and help the team in order to add value to the final product. In constant search for challenges that may develop positively in personal and professional growth.
 
 - 🔭 I’m currently working on improve my code skills.
 - 🌱 I’m currently learning more about .NET Core.
