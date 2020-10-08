@@ -17,8 +17,8 @@ Always willing to learn and help the team in order to add value to the final pro
 ### Main Languages, Frameworks and Technologies
 
 - 💻 Front-end:
-  Angular, ReactJS, AngularJS
-  CSS3, HTML5, JavaScript, TypeScript
+  Angular, ReactJS, AngularJS,
+  CSS3, HTML5, JavaScript, TypeScript,
   Angular Material, Materialize, Material UI, Bootstrap
 
 - 🖥️ Back-end:
