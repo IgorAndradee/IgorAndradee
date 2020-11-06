@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Igor Andrade Silva
 
-Passionate about technology, I'm working as a Full Stack Developer 👨🏾‍💻 at [@DXC Technology](https://www.dxc.technology/br).
+Passionate about technology, I'm working as a Full Stack Developer 👨🏾‍💻 at [@TIVIT](https://tivit.com/).
 
 I am constantly improving my skills to always deliver the best of both worlds: front-end and back-end.
 
