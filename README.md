@@ -31,4 +31,4 @@ Always willing to learn and help the team in order to add value to the final pro
   MongoDB, SQL Server, Oracle, MySQL
 
 - ☁️ Cloud:
-  Docker, Microsoft Azure, Openshift
+  Docker, Microsoft Azure, AWS, Openshift
