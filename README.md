@@ -11,7 +11,7 @@ Always willing to learn and help the team in order to add value to the final pro
 - 🔭 I’m currently working on improve my code skills.
 - 🌱 I’m currently learning more about .NET Core.
 - 💬 Ask me about technology.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-andrade-silva-76a217182/), [E-mail](mailto:igor.andrade1013@gmail.com) or [WhatsApp](https://api.whatsapp.com/send?1=pt_BR&phone=5514981296333).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-andrade-silva), [E-mail](mailto:igor.andrade1013@gmail.com) or [WhatsApp](https://api.whatsapp.com/send?1=pt_BR&phone=5514981296333).
 - ⚡ Fun fact: If you can dream, you can develop it!
 
 ### Main Languages, Frameworks and Technologies
