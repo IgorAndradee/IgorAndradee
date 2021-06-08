@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Igor Andrade Silva
 
-Passionate about technology, I'm working as a Full Stack Developer 👨🏾‍💻 at [@TIVIT](https://tivit.com/).
+Passionate about technology, I'm working as a Full Stack Developer 👨🏾‍💻 at [@BTG Pactual](https://www.btgpactual.com/).
 
 I am constantly improving my skills to always deliver the best of both worlds: front-end and back-end.
 
