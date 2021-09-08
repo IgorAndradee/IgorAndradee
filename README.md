@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorandradee&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div>
+<div align="center">
   <a href="mailto:igor.andrade1013@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/11270322/igor-andrade" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/igor-andrade-silva/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
