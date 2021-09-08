@@ -13,6 +13,7 @@ Passionate about technology, I'm working as a Full Stack Developer 👨🏾‍�
 <p align="center">   
   <a href="mailto:igor.andrade1013@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/igor-andrade-silva/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://stackoverflow.com/users/11270322/igor-andrade" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> 
 </p>
 
 <h2>📃 Github Stats</h2>
@@ -27,12 +28,7 @@ Passionate about technology, I'm working as a Full Stack Developer 👨🏾‍�
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
-
-  <hr/>
-
-  <div>
-    <a href="#"><img alt="Igor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IgorAndradee&custom_title=Igor%20Andrade's%20Contribution%20Graph&bg_color=0D1117&color=060cff&line=FFFFFF&point=060cff&hide_border=true" /></a>
-  <div> 
+  
 </div>
 
 <br/>
